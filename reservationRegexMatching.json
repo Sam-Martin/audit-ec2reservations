@@ -1,0 +1,26 @@
+[
+    {
+        "Regex":"Windows.*SQL.*Standard",
+        "Result":"Windows with SQL Server Standard"
+    },
+    {
+        "Regex":"Windows.*SQL.*Web",
+        "Result":"Windows with SQL Server Web"
+    },
+    {
+        "Regex":"Windows.*",
+        "Result":"Windows"
+    },
+    {
+        "Regex":"Red Hat Enterprise Linux.*",
+        "Result":"Red Hat Enterprise Linux"
+    },
+    {
+        "Regex":"SUSE.*",
+        "Result":"SUSE Linux"
+    },
+    {
+        "Regex":".*(Linux|UNIX).*",
+        "Result":"Linux/UNIX"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "ImageType":  "Windows (Amazon VPC)",
+        "ImageID":  null
+    },
+    {
+        "ImageType":  "Linux/UNIX (Amazon VPC)",
+        "ImageID":  null
+    },
+    {
+        "ImageType":  "Windows with SQL Server Standard (Amazon VPC)",
+        "ImageID":  null
+    },
+    {
+        "ImageType":  "Windows (Amazon VPC)",
+        "ImageID":  "ami-27d0e626"
+    },
+    {
+        "ImageType":  "Windows (Amazon VPC)",
+        "ImageID":  "ami-d02386a7"
+    },
+    {
+        "ImageType":  "Linux/UNIX (Amazon VPC)",
+        "ImageID":  "ami-f3e30084"
+    },
+    {
+        "ImageType":  "Windows (Amazon VPC)",
+        "ImageID":  "ami-6f2efa18"
+    },
+    {
+        "ImageType":  "Windows (Amazon VPC)",
+        "ImageID":  "ami-d4228ea3"
+    },
+    {
+        "ImageType":  "Windows (Amazon VPC)",
+        "ImageID":  "ami-3e71c049"
+    },
+    {
+        "ImageType":  "Windows (Amazon VPC)",
+        "ImageID":  "ami-4451e733"
+    },
+    {
+        "ImageType":  "Windows with SQL Server Standard (Amazon VPC)",
+        "ImageID":  "ami-dabd62ad"
+    },
+    {
+        "ImageType":  "Windows (Amazon VPC)",
+        "ImageID":  "ami-6abd621d"
+    },
+    {
+        "ImageType":  "Windows (Amazon VPC)",
+        "ImageID":  "ami-e1d3d695"
+    },
+    {
+        "ImageType":  "Windows (Amazon VPC)",
+        "ImageID":  "ami-8b1616ff"
+    },
+    {
+        "ImageType":  "Windows (Amazon VPC)",
+        "ImageID":  "ami-5f43561a"
+    },
+    {
+        "ImageType":  "Windows (Amazon VPC)",
+        "ImageID":  "ami-905fe9e7"
+    }
+]
